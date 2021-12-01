@@ -12,7 +12,7 @@ import javax.inject.Inject
 import javax.inject.Provider
 
 /*
-* Multi dagger
+* Dagger Multibinding
 * private val creator:Map<Class<out ViewModel>,@JvmSuppr......
 * */
 
