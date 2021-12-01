@@ -15,7 +15,7 @@ import dagger.Component
 @AppScope
 @Component(
     dependencies = [CoreComponent::class],
-    modules = [AppModule::class, ViewModelModule::class]
+    modules = [AppModule::class, ViewModelModule::class]//Dagger Multibinding
 )
 interface AppComponent {
     @Component.Factory

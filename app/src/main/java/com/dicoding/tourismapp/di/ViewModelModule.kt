@@ -9,6 +9,7 @@ import com.dicoding.tourismapp.home.HomeViewModel
 import dagger.Binds
 import dagger.Module
 import dagger.multibindings.IntoMap
+//Dagger Multibinding
 
 @Suppress("unused")
 @Module
